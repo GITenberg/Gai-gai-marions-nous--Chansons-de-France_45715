@@ -25,6 +25,8 @@ covers:
 - cover_type: archival
   image_path: 45715-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45715#Gai-gai-marions-nous--Chansons-de-France
 gutenberg_bookshelf:
 - FR Chansons
 - FR Illustrateurs
